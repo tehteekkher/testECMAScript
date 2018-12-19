@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Nothing special done here, looks else where.
+Just test on simple.thanks.
 
 ## Available Scripts
 
